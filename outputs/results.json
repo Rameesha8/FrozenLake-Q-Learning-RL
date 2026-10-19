@@ -1,0 +1,14 @@
+{
+  "success_rate": 0.574,
+  "mean_steps": 78.142,
+  "episodes": 500,
+  "environment": "FrozenLake-v1 8x8 slippery",
+  "algorithm": "Q-learning",
+  "training_episodes": 30000,
+  "alpha": 0.1,
+  "gamma": 0.99,
+  "epsilon_decay": 0.9997,
+  "seed": 42,
+  "last_1000_training_success_rate": 0.418,
+  "successful_gif_recorded": true
+}
